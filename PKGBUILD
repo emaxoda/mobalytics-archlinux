@@ -1,7 +1,7 @@
 pkgname=mobalytics-desktop
 pkgver=1.102.378
 pkgrel=1
-pkgdesc="Repacked Mobalytics for Linux"
+pkgdesc="Mobalytics repackaged  for Linux"
 arch=('x86_64')
 url="https://github.com/emaxoda/mobalytics-repackager"
 license=('UNLICENSED')
