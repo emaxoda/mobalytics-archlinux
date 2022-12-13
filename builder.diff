@@ -1,0 +1,20 @@
+--- a/electron-builder/config.js	2022-12-12 23:05:20.838672564 -0300
++++ b/electron-builder/config.js	2022-12-12 23:06:43.295196553 -0300
+@@ -12,16 +12,13 @@
+     ],
+     linux: {
+         icon: "resources/icons/",
+         category: "Game",
+         publish: ["github"],
+         target: [
+-            "AppImage",
+-            "deb",
+-            "rpm",
+-            "snap"
++            "dir"
+         ]
+     },
+     protocols: [{
+         name: "mobalytics",
+         schemes: [
+             "mobalytics"

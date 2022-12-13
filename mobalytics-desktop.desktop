@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Mobalytics
+Exec=/opt/mobalytics-desktop/mobalytics-desktop %U
+Terminal=false
+Type=Application
+Icon=mobalytics-desktop
+StartupWMClass=Mobalytics
+Comment=Tired of having to Alt-Tab to get your analysis? Leave your browser behind by using the Mobalytics desktop app. You’ll get all the key insights you need to win without ever having to lose sight of your game.
+MimeType=x-scheme-handler/mobalytics;
+Categories=Game;
