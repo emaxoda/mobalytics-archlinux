@@ -1,6 +1,6 @@
 [Desktop Entry]
 Name=Mobalytics
-Exec=/opt/mobalytics-desktop/mobalytics-desktop %U
+Exec=/opt/mobalytics-desktop-adblock/mobalytics-desktop %U
 Terminal=false
 Type=Application
 Icon=mobalytics-desktop
