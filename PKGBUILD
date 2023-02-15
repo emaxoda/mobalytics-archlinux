@@ -1,5 +1,5 @@
 pkgname=mobalytics-desktop-adblock
-pkgver=1.102.507
+pkgver=1.102.544
 pkgrel=1
 pkgdesc="Mobalytics repackaged  for Linux"
 arch=('x86_64')
