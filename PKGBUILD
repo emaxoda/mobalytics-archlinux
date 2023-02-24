@@ -1,5 +1,5 @@
 pkgname=mobalytics-desktop
-pkgver=1.102.544
+pkgver=1.102.572
 pkgrel=1
 pkgdesc="Mobalytics repackaged  for Linux"
 arch=('x86_64')
