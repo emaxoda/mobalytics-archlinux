@@ -1,5 +1,5 @@
 pkgname=mobalytics-desktop
-pkgver=1.102.572
+pkgver=1.102.598
 pkgrel=1
 pkgdesc="Mobalytics repackaged  for Linux"
 arch=('x86_64')
@@ -10,9 +10,9 @@ makedepends=('npm')
 source=("${pkgname}-${pkgver}.tar.gz::https://github.com/emaxoda/mobalytics-repackager/archive/refs/tags/v${pkgver}.zip"
         builder.diff
         mobalytics-desktop.desktop)
-sha256sums=('SKIP'
-            'SKIP'
-            'SKIP')
+md5sums=('8a862a24c7f5eb5b15a15456e6908884'
+            'f4624977f2981f40376beb11a637f29b'
+            'd8ec3818788bd43234f3d15243f15808')
 
 prepare(){
 
